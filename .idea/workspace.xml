@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92a9591c-1609-4d43-b4fb-1313eaf9b3c5" name="Changes" comment="changes" />
+    <list default="true" id="92a9591c-1609-4d43-b4fb-1313eaf9b3c5" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises:projects/ex033.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MLdQQhPzoZRt1bEcaY6MJXg4DK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677616297996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes">
+      <created>1677616381425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677616381425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes">
+      <created>1677616420133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677616420133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
