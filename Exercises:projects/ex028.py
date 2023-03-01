@@ -10,3 +10,5 @@ if pick == sort:
     print('You won champ!')
 else:
     print('You lost, the number picked by the computer was {}!'.format(sort))
+
+#Or use PC = randint(0,5)

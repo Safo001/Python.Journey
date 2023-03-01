@@ -5,11 +5,11 @@ The fine costs £7 per each Km exceeded'''
 import math
 
 speed = float(input('What is the car speed?'))
-print("You have passed that road at {:1}Km/h.".format(speed))
+print("You have passed that road at {:.1f}Km/h.".format(speed))
 fine = 7 * (speed - 80)
 if speed > 80:
     print('You have exceeded the speed limit.')
-    print('You have to pay a fine of £{}.'.format(fine))
+    print('You have to pay a fine of £{:.f}.'.format(fine))
 else:
     print('you are within the allowed speed.')
 print("END.")

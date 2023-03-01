@@ -6,7 +6,7 @@ price2 = 0.45
 print("Hello, welcome to Safo transportation,\nthe tickets prices vary form £{}/km for trips up to 200km,\nand £{}/km for longer trips!".format(price1,price2))
 
 distance = float(input('What is the trip distance?'))
-print("Your trip distance is {}Km.".format(distance))
+print("Your trip distance is {:.1f}Km.".format(distance))
 ticket1 = float(price1 * distance)
 ticket2 = float(price2 * distance)
 
